@@ -1,24 +1,18 @@
-# Báo cáo nhóm
+# Hồ sơ Lab 13 · MEO · Nhóm 1 thành viên
 
-| File | Nhiệm vụ | Ai điền | Ghi chú |
-|---|---|---|---|
-| `bang_chi_phi.md` | A, B | Người viết code, người kiểm số | Bảng A1, A2, A3, độ nhạy, trả lời B3 và B4 |
-| `bang_loi.md` | C | Hai người gắn nhãn | Hai bộ nhãn độc lập, tỉ lệ đồng thuận, bảng khắc phục 5 ca |
-| `pilot_plan.yaml` | D | Cả nhóm | Không còn dấu `?` ngoài dòng chú thích; đọc được bằng `yaml.safe_load` |
-| `chi_so.md` | E | Cả nhóm | Đặc tả chỉ số, danh sách event, rủi ro kinh tế |
-| `ho_so_launch_v0.md` | E | Người giữ hồ sơ | Một trang, bảy mục, dòng cuối là đề xuất |
-| `phieu_cham.md` | Duyệt chéo | Cả nhóm (làm hội đồng) | Phiếu nhóm mình chấm nhóm n + 1 |
-| `group_report.md` | | Cả nhóm | Báo cáo nhóm ngắn |
-| `MSSV_HoTen.md` | | Từng thành viên | File mẫu. Mỗi người copy thành file riêng |
+Bắt đầu từ [hồ sơ launch v0](ho_so_launch_v0.md) và [báo cáo nhóm](group_report.md). Kết luận đề xuất là **Go có điều kiện** cho pilot nội địa + hàng nặng.
 
-Giữ nguyên tên các file trên để trợ giảng đối chiếu được.
+| CP | Sản phẩm | Trạng thái |
+| --- | --- | --- |
+| CP1 | [A1–A4](bang_chi_phi.md), [code](../../src/lab13.py) | Đã tính từ CSV; 3 phép thử bắt buộc đạt |
+| CP2 | [B1–B4](bang_chi_phi.md) | Đủ 9 kịch bản, 1 cặp, giới hạn chạy và xem lại 100% |
+| CP3 | [20 ca và 5 cách khắc phục](bang_loi.md) | Đã phân tích có nguồn; chưa có 2 người gắn nhãn độc lập |
+| CP4 | [pilot_plan.yaml](pilot_plan.yaml) | Đủ D1–D2, 4 luật dừng; YAML đọc được |
+| CP5 | [chỉ số/event/rủi ro](chi_so.md), [hồ sơ 7 mục](ho_so_launch_v0.md) | Đã soạn; pilot/event mới là đề xuất |
+| Duyệt chéo | [phiếu và câu hỏi bảo vệ](phieu_cham.md) | Đã chuẩn bị; chưa có điểm hoặc quyết định hội đồng |
 
-Mỗi thành viên tạo thêm một báo cáo cá nhân:
+Thông tin nhóm ở [TEAM.md](../../TEAM.md). Báo cáo cá nhân hiện là [CaNhan_MEO.md](CaNhan_MEO.md); cần họ tên, MSSV để điền và đổi tên đúng quy định. Giữ nguyên mẫu `MSSV_HoTen.md`.
 
-```text
-report/team/MSSV_HoTen.md
-```
+Kiểm tra và lệnh chạy ở [kiem_tra.md](kiem_tra.md). Code đã qua **8 unittest**, CSV và starter giữ nguyên. Bảng chi phí sinh lại bằng `python lab13.py --write-cost-report` trong `src/` sau khi cài `requirements.txt`.
 
-Ví dụ: `report/team/20241234_NguyenVanAn.md`.
-
-Đóng góp và bằng chứng của từng thành viên cũng phải được khai báo trong `TEAM.md`.
+Do nhóm 1 người, cần giảng viên chấp nhận hình thức cá nhân hoặc bố trí người gắn nhãn/phản biện cho các hoạt động bắt buộc có người khác; không có dữ liệu giả về đồng thuận hoặc hội đồng.
