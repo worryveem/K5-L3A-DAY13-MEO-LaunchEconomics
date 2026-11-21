@@ -3,11 +3,12 @@
 - Hình thức: **nhóm 1 thành viên**, theo thông tin người học cung cấp.
 - Repo: [K5-L3A-DAY13-MEO-LaunchEconomics](https://github.com/worryveem/K5-L3A-DAY13-MEO-LaunchEconomics).
 - Nhánh làm bài: `main`; commit chốt tra bằng `git log -1 --oneline` sau khi lưu bài.
-- Họ tên và MSSV: chưa được cung cấp; không suy đoán từ tài khoản máy hoặc Git.
+- Họ tên: **Đỗ Minh Hoàng**.
+- MSSV: **2A202603554**.
 
 | STT | Thành viên | MSSV | GitHub | Vai phụ trách |
 | ---: | --- | --- | --- | --- |
-| 1 | Chủ repo MEO, chờ bổ sung họ tên | Chưa cung cấp | worryveem | Viết code, kiểm số, phân tích lỗi, giữ hồ sơ và chuẩn bị phản biện |
+| 1 | Đỗ Minh Hoàng | 2A202603554 | worryveem | Viết code, kiểm số, phân tích lỗi, giữ hồ sơ và chuẩn bị phản biện |
 
 ## Phân công theo hình thức cá nhân
 
@@ -25,4 +26,4 @@ Codex hỗ trợ đọc tài liệu, triển khai code, tính lại số và so�
 
 Một thành viên không tạo được 2 người gắn nhãn độc lập, không đổi người viết code và không kiểm tra trên máy thứ 2. Không khai thêm thành viên hoặc tự ghi kết quả duyệt chéo. Hai yêu cầu hoạt động nhóm này cần giảng viên chấp nhận hình thức cá nhân hoặc bố trí người phản biện.
 
-Báo cáo cá nhân tạm đặt tại [CaNhan_MEO.md](report/team/CaNhan_MEO.md); giữ nguyên mẫu `MSSV_HoTen.md`. Đổi tên khi có họ tên và MSSV thật.
+Báo cáo cá nhân của Đỗ Minh Hoàng được điền trực tiếp trong file có sẵn [MSSV_HoTen.md](report/team/MSSV_HoTen.md).

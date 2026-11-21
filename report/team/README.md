@@ -11,8 +11,8 @@ Bắt đầu từ [hồ sơ launch v0](ho_so_launch_v0.md) và [báo cáo nhóm]
 | CP5 | [chỉ số/event/rủi ro](chi_so.md), [hồ sơ 7 mục](ho_so_launch_v0.md) | Đã soạn; pilot/event mới là đề xuất |
 | Duyệt chéo | [phiếu và câu hỏi bảo vệ](phieu_cham.md) | Đã chuẩn bị; chưa có điểm hoặc quyết định hội đồng |
 
-Thông tin nhóm ở [TEAM.md](../../TEAM.md). Báo cáo cá nhân hiện là [CaNhan_MEO.md](CaNhan_MEO.md); cần họ tên, MSSV để điền và đổi tên đúng quy định. Giữ nguyên mẫu `MSSV_HoTen.md`.
+Thành viên duy nhất: **Đỗ Minh Hoàng — 2A202603554**. Thông tin nhóm ở [TEAM.md](../../TEAM.md); báo cáo cá nhân điền trong file có sẵn [MSSV_HoTen.md](MSSV_HoTen.md).
 
-Kiểm tra và lệnh chạy ở [kiem_tra.md](kiem_tra.md). Code đã qua **8 unittest**, CSV và starter giữ nguyên. Bảng chi phí sinh lại bằng `python lab13.py --write-cost-report` trong `src/` sau khi cài `requirements.txt`.
+Code đã qua **8 unittest**, CSV và starter giữ nguyên. Lệnh kiểm tra có trong [báo cáo cá nhân](MSSV_HoTen.md). Bảng chi phí sinh lại bằng `python lab13.py --write-cost-report` trong `src/` sau khi cài `requirements.txt`.
 
 Do nhóm 1 người, cần giảng viên chấp nhận hình thức cá nhân hoặc bố trí người gắn nhãn/phản biện cho các hoạt động bắt buộc có người khác; không có dữ liệu giả về đồng thuận hoặc hội đồng.
