@@ -1,6 +1,6 @@
 # Nhóm MEO · L3A · Lab 13
 
-- Hình thức: **nhóm 1 thành viên**, theo thông tin người học cung cấp.
+- Tên nhóm: **MEO** · Lớp: **L3A**.
 - Repo: [K5-L3A-DAY13-MEO-LaunchEconomics](https://github.com/worryveem/K5-L3A-DAY13-MEO-LaunchEconomics).
 - Nhánh làm bài: `main`; commit chốt tra bằng `git log -1 --oneline` sau khi lưu bài.
 - Họ tên: **Đỗ Minh Hoàng**.
@@ -10,7 +10,9 @@
 | ---: | --- | --- | --- | --- |
 | 1 | Đỗ Minh Hoàng | 2A202603554 | worryveem | Viết code, kiểm số, phân tích lỗi, giữ hồ sơ và chuẩn bị phản biện |
 
-## Phân công theo hình thức cá nhân
+## Phân công công việc
+
+Đỗ Minh Hoàng phụ trách các phần việc sau:
 
 | Phần | Công việc đã chuẩn bị | Bằng chứng |
 | --- | --- | --- |
@@ -20,10 +22,8 @@
 | CP4 | D1–D2, thiết kế 20 + 20 nhân viên, luật dừng và hoàn tác | `report/team/pilot_plan.yaml` |
 | CP5 | 5 chỉ số, event, rủi ro, hồ sơ 7 mục, chuẩn bị phản biện | `chi_so.md`, `ho_so_launch_v0.md`, `phieu_cham.md` |
 
-## Minh bạch phần việc và giới hạn
+## Công cụ hỗ trợ và bằng chứng
 
 Codex hỗ trợ đọc tài liệu, triển khai code, tính lại số và soạn hồ sơ. Các nhãn CP3 là phân tích có AI hỗ trợ và đã đối chiếu hướng dẫn có đáp án; chưa phải nhãn độc lập do người học thực hiện.
 
-Một thành viên không tạo được 2 người gắn nhãn độc lập, không đổi người viết code và không kiểm tra trên máy thứ 2. Không khai thêm thành viên hoặc tự ghi kết quả duyệt chéo. Hai yêu cầu hoạt động nhóm này cần giảng viên chấp nhận hình thức cá nhân hoặc bố trí người phản biện.
-
-Báo cáo cá nhân của Đỗ Minh Hoàng được điền trực tiếp trong file có sẵn [MSSV_HoTen.md](report/team/MSSV_HoTen.md).
+Báo cáo thành viên: [Đỗ Minh Hoàng — 2A202603554](report/team/2A202603554_DoMinhHoang.md). Trạng thái nhãn độc lập và duyệt chéo được theo dõi trong `bang_loi.md` và `phieu_cham.md`.

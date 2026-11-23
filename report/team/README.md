@@ -1,4 +1,4 @@
-# Hồ sơ Lab 13 · MEO · Nhóm 1 thành viên
+# Hồ sơ Lab 13 · Nhóm MEO
 
 Bắt đầu từ [hồ sơ launch v0](ho_so_launch_v0.md) và [báo cáo nhóm](group_report.md). Kết luận đề xuất là **Go có điều kiện** cho pilot nội địa + hàng nặng.
 
@@ -11,8 +11,8 @@ Bắt đầu từ [hồ sơ launch v0](ho_so_launch_v0.md) và [báo cáo nhóm]
 | CP5 | [chỉ số/event/rủi ro](chi_so.md), [hồ sơ 7 mục](ho_so_launch_v0.md) | Đã soạn; pilot/event mới là đề xuất |
 | Duyệt chéo | [phiếu và câu hỏi bảo vệ](phieu_cham.md) | Đã chuẩn bị; chưa có điểm hoặc quyết định hội đồng |
 
-Thành viên duy nhất: **Đỗ Minh Hoàng — 2A202603554**. Thông tin nhóm ở [TEAM.md](../../TEAM.md); báo cáo cá nhân điền trong file có sẵn [MSSV_HoTen.md](MSSV_HoTen.md).
+Thành viên: **Đỗ Minh Hoàng — 2A202603554**. Thông tin nhóm ở [TEAM.md](../../TEAM.md); [báo cáo thành viên](2A202603554_DoMinhHoang.md) đã được đặt tên theo quy định. `MSSV_HoTen.md` là file mẫu.
 
-Code đã qua **8 unittest**, CSV và starter giữ nguyên. Lệnh kiểm tra có trong [báo cáo cá nhân](MSSV_HoTen.md). Bảng chi phí sinh lại bằng `python lab13.py --write-cost-report` trong `src/` sau khi cài `requirements.txt`.
+Code đã qua **8 unittest**, CSV và starter giữ nguyên. Lệnh kiểm tra có trong [báo cáo thành viên](2A202603554_DoMinhHoang.md). Bảng chi phí sinh lại bằng `python lab13.py --write-cost-report` trong `src/` sau khi cài `requirements.txt`.
 
-Do nhóm 1 người, cần giảng viên chấp nhận hình thức cá nhân hoặc bố trí người gắn nhãn/phản biện cho các hoạt động bắt buộc có người khác; không có dữ liệu giả về đồng thuận hoặc hội đồng.
+Cần hoàn tất hai bộ nhãn độc lập và tỉ lệ đồng thuận ở CP3, kết quả duyệt chéo Gate 2a, sau đó push bản chốt và nộp link repo trên LMS.

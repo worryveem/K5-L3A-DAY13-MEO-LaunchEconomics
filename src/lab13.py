@@ -1,4 +1,4 @@
-"""Lab 13 · Gate 2a · Nhóm MEO, 1 thành viên; triển khai có Codex hỗ trợ.
+"""Lab 13 · Gate 2a · Nhóm MEO; triển khai có Codex hỗ trợ.
 Chạy trong src/: python lab13.py; sinh bảng A/B: python lab13.py --write-cost-report.
 Không cần API hoặc mạng. Dữ liệu CSV và bảng giá đều là giả định lab.
 Giữ nguyên bản gốc lab13_starter.py và hai CSV.
@@ -188,7 +188,7 @@ def so(x, decimals=0):
 
 def bang_chi_phi(kq):
     a, scope, b4 = kq['a2'], kq['scope'], kq['b4']
-    lines = ['# Bảng chi phí · CP1 và CP2 · Nhóm MEO (1 thành viên)', '',
+    lines = ['# Bảng chi phí · CP1 và CP2 · Nhóm MEO', '',
              'Sinh bằng `python lab13.py --write-cost-report` từ 2 CSV nguyên bản. Toàn bộ dữ liệu và bảng giá của lab là giả lập.',
              'Mọi tổng, đơn giá, tỉ số hay phần trăm phụ thuộc phút nhân viên dưới đây đều mang nhãn **simulated**; chỉ làm tròn khi hiển thị.', '',
              '## A1 · Ba phép thử', '', '| Phép thử, p = 0,8 | Kết quả |', '| --- | ---: |',

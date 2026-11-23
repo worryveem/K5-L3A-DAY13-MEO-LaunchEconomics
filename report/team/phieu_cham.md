@@ -1,10 +1,10 @@
 # Phiếu Gate 2a · Nhóm MEO
 
-**Trạng thái: chưa có duyệt chéo.** Nhóm có 1 thành viên và chưa nhận hồ sơ nhóm khác hoặc kết quả từ hội đồng; không khai điểm 30/30 hoặc biên bản hỏi đáp đã diễn ra.
+**Trạng thái: chờ duyệt chéo.** Chưa nhận hồ sơ nhóm được chấm hoặc kết quả từ hội đồng.
 
 - Nhóm chấm: chưa được phân công.
 - Nhóm được chấm: chưa được phân công.
-- Điểm và quyết định hội đồng: **chưa có**; giảng viên cần bố trí người phản biện hoặc xác nhận cách làm cá nhân.
+- Điểm và quyết định hội đồng: **chưa có**, cập nhật sau buổi duyệt chéo.
 
 ## Phiếu tự rà bằng chứng trước khi trình
 
@@ -24,6 +24,6 @@
 | Nếu phải xem lại 100% thì còn rẻ không | CPS 11.742,79 đ với làm lại 9 phút, 12.414,50 đ với trung bình CSV; đều simulated, chưa cố định. Vì vậy giữ review 100% ở bước đầu để học và chỉ giảm khi đạt audit; chưa đạt thì không mở rộng. |
 | 40 nhân viên có đủ thấy tăng 5 điểm không | Không: hiệu dụng tối đa dưới 1.000/nhánh, cần 1.251. Thiết kế chọn 6 điểm với 299 yêu cầu/người; power cho 5 điểm chỉ 0,642, cần GĐ ký chấp nhận. |
 | Vì sao không dừng ở mức mở lại 3% | Hiện trạng 4,25%, phạm vi 3,97%; 3% thấp hơn nền. Dùng trần 6% hoặc tăng ≥2 điểm so đối chứng trên cohort đủ theo dõi; hoàn trùng dừng ngay từ 1 ca. |
-| Nhóm 1 người lấy đồng thuận 80% ở đâu | Chưa có 2 người gắn nhãn độc lập nên ghi N/A; bảng 20 ca có AI hỗ trợ và tham khảo đáp án, cần giảng viên chấp nhận bài cá nhân hoặc bố trí người gắn độc lập. |
+| Đồng thuận CP3 được tính như thế nào | Đếm số ca trùng nhãn giữa 2 bộ nhãn độc lập rồi chia 20; yêu cầu ít nhất 16/20 = 80%. Bảng hiện tại là phân tích có tham khảo hướng dẫn; chưa có số đồng thuận độc lập. |
 
 **Quyết định thực tế của hội đồng:** Chưa có. **Câu trả lời ghi tại buổi:** Chưa có; các dòng trên chỉ là chuẩn bị trước.

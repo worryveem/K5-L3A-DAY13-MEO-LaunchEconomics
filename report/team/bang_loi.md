@@ -1,6 +1,6 @@
 # Bảng lỗi và cách khắc phục · CP3 · Nhóm MEO
 
-Nhóm chỉ có **1 người**. Bảng dưới là phân tích 20 ca có Codex hỗ trợ và đã đối chiếu hướng dẫn; không khai là hai bộ nhãn độc lập của học viên.
+Bảng dưới là phân tích 20 ca có Codex hỗ trợ và đã đối chiếu hướng dẫn. Hai bộ nhãn độc lập được theo dõi riêng ở mục đồng thuận.
 Nguồn: mục “Hai mươi ca lỗi” trong đề gốc Lab 13 và mục C của [hướng dẫn](../../docs/Lab13_Huong_dan_chi_tiet_buoi_chieu.md).
 
 ## Phân loại 20 ca và căn cứ
@@ -33,9 +33,9 @@ Tổng: **4 do người dùng + 5 hệ thống + 4 ngữ cảnh + 4 giới hạn
 ## Hai bộ nhãn độc lập và tỉ lệ đồng thuận
 
 - Bộ nhãn học viên 1: chưa thu thập độc lập; bảng trên là tài liệu hỗ trợ có tham khảo đáp án.
-- Bộ nhãn học viên 2: không có, vì nhóm chỉ 1 thành viên.
-- Đồng thuận: **N/A**, không có 2 bộ nhãn để tính; không ghi 100% và không tạo người gắn nhãn thứ 2.
-- Phương án hoàn tất theo quy chế: giảng viên chấp nhận bài cá nhân, hoặc bố trí 1 người phản biện gắn mới 20 ca mà chưa xem bảng; lưu nguyên 2 bộ rồi đếm trùng/20, mục tiêu ít nhất 16/20.
+- Bộ nhãn học viên 2: chưa thu thập.
+- Đồng thuận: **N/A**, chưa có 2 bộ nhãn độc lập để tính.
+- Cách hoàn tất: thu thập 2 bộ nhãn độc lập trên 20 ca trước khi xem bảng tham khảo; lưu nguyên từng bộ rồi đếm số ca trùng/20, mục tiêu ít nhất 16/20 = 80%.
 
 ## Quy tắc phân biệt
 

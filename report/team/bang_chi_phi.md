@@ -1,4 +1,4 @@
-# Bảng chi phí · CP1 và CP2 · Nhóm MEO (1 thành viên)
+# Bảng chi phí · CP1 và CP2 · Nhóm MEO
 
 Sinh bằng `python lab13.py --write-cost-report` từ 2 CSV nguyên bản. Toàn bộ dữ liệu và bảng giá của lab là giả lập.
 Mọi tổng, đơn giá, tỉ số hay phần trăm phụ thuộc phút nhân viên dưới đây đều mang nhãn **simulated**; chỉ làm tròn khi hiển thị.

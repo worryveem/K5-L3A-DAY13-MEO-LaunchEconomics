@@ -1,4 +1,4 @@
-# CP4 · Nhóm MEO, 1 thành viên · Kế hoạch đề xuất, chưa triển khai.
+# CP4 · Nhóm MEO · Kế hoạch đề xuất, chưa triển khai.
 # Mọi ngày dưới đây là lịch dự kiến GMT+7; không phải hoạt động đã diễn ra.
 # D1 · Tính bằng src/lab13.py, z chính xác, alpha 0,05, power 0,8, ICC 0,02.
 # a) Chia yêu cầu: 1.251/nhánh cho 0,70 -> 0,75.
@@ -33,7 +33,6 @@ pilot:
       - "Kỹ sư trưởng chứng minh ledger ok trước tin nhắn thành công, khóa idempotency và thử hoàn tác trong 30 phút; chưa có bằng chứng thực thi trong lab."
       - "Giám đốc vận hành ký chấp nhận MDE 6 điểm, power 0,642 tại 5 điểm và xác minh đủ 40 nhân viên đủ lưu lượng trong 12 depot."
       - "Trưởng phân tích xác minh baseline 0,70, ICC 0,02 là giả định phù hợp phạm vi; nếu sai phải tính lại và khóa kế hoạch mới trước chạy."
-      - "Giảng viên xác nhận hình thức 1 người ở CP3/duyệt chéo; không dùng tự chấm thay hội đồng."
   assignment:
     unit: "staff"
     control_share: 0.5

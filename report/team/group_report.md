@@ -2,7 +2,7 @@
 
 ## 1. Thông tin nhóm
 
-**MEO · L3A · 1 thành viên: Đỗ Minh Hoàng — 2A202603554.** Repo `worryveem/K5-L3A-DAY13-MEO-LaunchEconomics`; thông tin và phân công ở [TEAM.md](../../TEAM.md).
+**Nhóm MEO · L3A.** Thành viên: **Đỗ Minh Hoàng — 2A202603554**. Repo `worryveem/K5-L3A-DAY13-MEO-LaunchEconomics`; thông tin và phân công ở [TEAM.md](../../TEAM.md).
 
 ## 2. Mục tiêu và cách tiếp cận
 
@@ -28,13 +28,13 @@ Hoàn thành CP1–CP5: định giá theo việc thành công, kiểm tra độ 
 
 ## 5. Khó khăn và cách xử lý
 
-Máy thiếu `statsmodels`; đã tạo `src/.venv/` và cài theo requirements, không đưa môi trường vào Git. Kiểm tra bằng 8 bài unittest, chạy toàn bộ script và đọc YAML đều đạt; lệnh tái lập nằm trong [báo cáo cá nhân](MSSV_HoTen.md).
+Máy thiếu `statsmodels`; đã tạo `src/.venv/` và cài theo requirements, không đưa môi trường vào Git. Kiểm tra bằng 8 bài unittest, chạy toàn bộ script và đọc YAML đều đạt; lệnh tái lập nằm trong [báo cáo thành viên](2A202603554_DoMinhHoang.md).
 
-Nhóm chỉ 1 người: không khai người gắn nhãn thứ 2, không tự chấm thành hội đồng. CP3 có phân tích và nhãn tham khảo; yêu cầu thực hành độc lập/duyệt chéo cần giảng viên xác nhận hình thức cá nhân.
+CP3 đã có phân tích và nhãn tham khảo; còn chờ thu thập hai bộ nhãn độc lập và tính đồng thuận. Phiếu Gate 2a đã chuẩn bị bằng chứng và câu hỏi; chờ duyệt chéo để ghi điểm và quyết định hội đồng.
 
 ## 6. Tổng hợp đóng góp
 
-Đỗ Minh Hoàng đảm nhiệm toàn bộ vai, với Codex hỗ trợ đọc, lập trình, tính số và soạn thảo; xem [báo cáo cá nhân](MSSV_HoTen.md).
+Đỗ Minh Hoàng phụ trách CP1–CP5 và tổng hợp hồ sơ, với Codex hỗ trợ đọc, lập trình, tính số và soạn thảo; xem [báo cáo thành viên](2A202603554_DoMinhHoang.md).
 
 ## 7. Hạn chế và hướng cải thiện
 
